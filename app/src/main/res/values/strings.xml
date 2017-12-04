@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">IDCardCamera</string>
+
+
+    <string name="facebook_app_id">932265273616713</string>
+    <string name="fb_login_protocol_scheme">fb932265273616713</string>
+    <string name="facebook_account_kit">7ef11ffff182c9cf95f1d3f5eda62a01</string>
+    <!--17/11/27-->
+    <string name="home_daily_collections">DAILY COLLECTIONS</string>
+    <string name="input_hint_tip">Please enter key words</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="title_history">HISTORY</string>
+    <string name="title_hot">HOT</string>
+    <string name="title_activity_web_view">WebViewActivity</string>
+
+
+    <!--                               =========card================                          -->
+    <string name="add_card_title_select_pay">SELECT PAY</string>
+    <string name="add_card_title_add_card">Add Card</string>
+    <string name="add_card_title_add_debit_card">Add Debit Card</string>
+    <string name="add_card_what_is_cid">The CID code of American Express card :</string>
+    <string name="add_card_what_is_cvv">The CVV/CVC on all kinds of card :</string>
+    <string name="add_card_tips_cvv">"What's \"CVV/CVC/CID\"?"</string>
+    <string name="add_card_number">Bank Card Number</string>
+    <string name="add_card_support_tips">Support:</string>
+    <string name="add_card_mm">MM</string>
+    <string name="add_card_YY">YY</string>
+    <string name="add_card_CVV">CVV/CVC/CID</string>
+    <string name="add_card_holder_name">Card Holder Name</string>
+    <string name="add_card_confirm">Add Card</string>
+    <string name="add_card_confirm_btn">ADD CARD</string>
+    <string name="add_card_querying_cardbin">Querying CardBin</string>
+    <string name="add_card_binding_card">Binding Card</string>
+    <string name="add_card_fill_all_blank">Please fill all the blank</string>
+    <string name="add_card_debit_hint">You can only use debit cards in transfer and top up.</string>
+
+
+    <!--login-->
+    <string name="system_user_agreement">《User Agreement for SphereBuy Services》</string>
+    <string name="system_privacy_policy">《Privacy Policy for SphereBuy Services》</string>
+    <!--WEBaCTIVITY-->
+    <string name="net_title"> network connectivity issues </string>
+    <string name="net_set"> go to set up the network? </string>
+    <string name="net_yes">Yes</string>
+    <string name="net_no">Cancel</string>
+    <string name="web_protocol_title">Protocol</string>
+
+    <!--APPLY FOR STAGING OCCUPATION-->
+    <string name="industry">INDUSTRY</string>
+    <string name="please_choose">PLEASE CHOOSE</string>
+    <string name="company_name">COMPANY NAME</string>
+    <string name="your_company_name">YOUR COMPANY NAME</string>
+    <string name="office_tel">OFFICE TEL</string>
+    <string name="your_office_tel">YOUR OFFICE TEL</string>
+    <string name="street_address">STREET ADDRESS</string>
+    <string name="apt_sute">Apt,Suite,Bldg</string>
+    <string name="city">City</string>
+    <string name="State">State</string>
+    <string name="zip_code">Zip Code</string>
+    <string name="apply_title">APPLY FOR STAGING</string>
+    <string name="next">NEXT</string>
+    <string name="title1">BASIC\nINFORMATION</string>
+    <string name="title2">UPLOAD\nIC PHOTOS</string>
+    <string name="title3">OCCUPATION</string>
+    <string name="title4">EMERGENCY\nCONTACTS</string>
+
+
+    <!--Marital Status-->
+    <string name="basic_information_unmarried">Single</string>
+    <string name="basic_information_married">Married</string>
+    <string name="basic_information_divorced">Divorced</string>
+    <string name="basic_information_widowed">Widowed</string>
+    <!--Marital Status-->
+    <!--EDU-->
+    <string name="basic_information_primary">Primary</string>
+    <string name="basic_information_secondary">Secondary</string>
+    <string name="basic_information_post_secondary">Post-Secondary</string>
+    <string name="basic_information_university_or_above">University or Above</string>
+    <!--EDU-->
+    <!--EMPLOY-->
+    <string name="basic_information_unemployed">Unemployed</string>
+    <string name="basic_information_employed">Employed</string>
+    <string name="basic_information_self_employed">Self-Employed</string>
+    <string name="basic_information_student">Student</string>
+    <string name="basic_information_retired">Retired</string>
+    <string name="basic_information_house_wife">Housewife</string>
+    <!--EMPLOY-->
+    <!--public-->
+    <string name="basic_information_other">Other</string>
+    <!--public-->
+    <string name="basic_information_enter_required_info">Enter the required information</string>
+
+
+    <string name="clear">Clear</string>
+    <string name="Done">Done</string>
+
+    <!--职业-->
+    <string name="basic_infomation_other">Other</string>
+    <string name="basic_infomation_retired">Retired</string>
+    <string name="basic_infomation_self_employed">Self-Employed</string>
+    <string name="basic_infomation_unemployed">Unemployed</string>
+    <string name="basic_infomation_employed">Employed</string>
+    <string name="basic_infomation_student">Student</string>
+    <string name="basic_infomation_housewift">Housewife</string>
+
+    <!--紧急联系人-->
+    <string name="first_name">FIRST NAME</string>
+    <string name="last_name">LAST NAME</string>
+    <string name="phone_number">PHONE NUMBER</string>
+    <string name="relationship">Relationship</string>
+
+    <!---关系-->
+    <string name="emergency_contacts_mate">Spouse</string>
+    <string name="emergency_contacts_parent">Parents</string>
+    <string name="emergency_contacts_children">Child</string>
+    <string name="emergency_contacts_brother_and_sister">Brother/Sister</string>
+    <string name="emergency_contacts_colleague">Colleague</string>
+    <string name="check_is_null">Enter the required information</string>
+    <string name="text_front_id_card">UPLOAD CLEAN AND READABLE PHOTO OF A \n FROM SIDE OF YOUR IDENTITY CARD</string>
+    <string name="text_back_id_card">UPLOAD CLEAN AND READABLE PHOTO OF A \n FROM SIDE OF YOUR IDENTITY CARD</string>
+    <string name="text_yourself_id_card">UPLOAD  A PHOTO OF YOURSELF HOLDING YOUR \n IDENTITY CARD NEXT TO YOUR FACE </string>
+</resources>
+
